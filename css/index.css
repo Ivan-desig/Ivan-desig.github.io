@@ -1,0 +1,157 @@
+/* GLOBAL */ДОДЕЛАТЬ САЙТ
+h1{
+  font-size: 60px;
+  margin-bottom: 50px;
+  color: white;
+
+}
+h2{
+  color: #445161;
+  font-size: 30px;
+  margin-bottom: 33px;
+  text-align: center;
+}
+.Neboooo. card{
+  background-color: rgb(68, 81, 98);
+}
+.img{
+  background-image: url(https://i.pinimg.com/originals/a0/8e/7a/a08e7a1c3b024bbed79dbe8fa0a6f217.jpg);
+  height: 33px;/*Высота*/
+  width: 33px;
+}
+.block{
+  padding: 50px;
+}
+.card{
+  margin-top: 33px;
+}
+/* header */
+.header{
+  display: grid;
+  padding: 50px;
+  grid-template-columns: 2fr 1fr;
+  background-color: rgb(68, 81, 98);
+}
+.header .img{
+  height: 100%;
+  width: 100%;
+  background-size: contain;
+}
+.header li{
+  margin-top: 18px;
+}
+/* About */
+.about{
+  display: grid;
+grid-template-columns: 64fr 36fr;
+text-align: start;
+}
+.about h2{
+
+}
+.about .img{
+  background: rgb(68, 81, 98);
+  height: 100%;
+  width: 100%;
+  color: white;
+
+}
+.about p{
+  margin-top: 24px;
+}
+
+/* Dignity */
+.dignity{
+  background: #f5f5f5;
+}
+.dignity .img{
+  background: rgb(68, 81, 98);
+  height: 33px;/*Высота*/
+  width: 33px;
+  color: white;
+
+
+  font-size: 33px;
+  font-weight: 800;
+  text-align: center;
+
+}
+.dignity .cardList{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+}
+.dignity .card{
+  display:grid;
+  grid-template-columns: 33px 1fr;
+  grid-column-gap: 10px;
+доделать сайт.
+}
+/* Scrinshots */
+.screenshot h3{
+  margin-bottom: 18px;
+  color: rgb(68, 81, 98);
+  font-size: 23px;
+}
+.screenshot .cardList{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+}
+.screenshot .card{
+  display:grid;
+  grid-template-columns: 33fr 1fr;
+
+}
+.screenshot .img{
+  height: 100p666x;
+  width: 100%;
+  background-size: cover;
+  opacity: 1;
+  transition-delay: 1s;
+}
+
+.screenshot .img:hover{
+  opacity: 1;
+}
+/* Reviews */
+.reviews .img{
+  background: #f5f5f5;
+  background: rgb(68, 81, 98);
+  height: 33px;/*Высота*/
+  width: 33px;
+  color: white;
+  font-family: 'Notable', sans-serif;
+  font-size: 33px;
+  font-weight: 900;
+  text-align: center;
+  border-radius: 50%;
+}
+.reviews .cardList{
+background: #f5f5f5;
+display:grid;
+grid-template-columns: 1fr 1fr;
+}
+.reviews .card{
+  display:grid;
+  grid-template-columns: 33px 1fr;
+  grid-column-gap: 10px;
+}
+.car{
+  background: url(https://multtov.net.ua/wp-content/uploads/2018/11/urok-animaciya-avtomobilya-3.png);
+  background-repeat: no-repeat;
+  height:620px;
+  width: 100%;
+  display: grid;
+  align-items: end;
+  grid-template-columns: 4fr 8fr;
+  justify-items: end;
+}
+.koleso{
+  /* background: url(https://lh3.googleusercontent.com/proxy/eGikNbdRtCRJeIX8n-O7ZNRLJmyAtWO8aoXDKbI-Ige2wI-ow8r1ULNABKvdDIFk3z4RkjS_ME80x-50xIoh0MtwUQ); */
+  height: 300px;
+
+  position: inherit;
+  margin: 500px:
+}
+.koleso:hover{
+
+}
